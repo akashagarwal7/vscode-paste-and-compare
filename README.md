@@ -4,11 +4,9 @@ A simple VSCode extension that allows you to paste clipboard content and compare
 
 ## Features
 
-### Paste and Compare
-
 Use the `Paste and Compare` command to paste the content of your clipboard into a new temporary file and compare it with the currently active file.
 
-#### How to use
+## How to use
 
 1. Copy some text to your clipboard.
 2. Open a file in VSCode that you want to compare with the clipboard content.
